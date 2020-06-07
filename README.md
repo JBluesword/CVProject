@@ -1,2 +1,0 @@
-# CVProject
-Created with CodeSandbox
